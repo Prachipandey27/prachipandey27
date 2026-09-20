@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I am a Final Year Computer Science Student | Open-Source Contributor | Data Analytics | Python | SQL | Power BI | Always Learning
+Computer Science Student | Python | SQL | Power BI | Web Development | Data Analysis | GenAI | Open Source | GSSoC'26
 
 
 ## 🌐 Socials:
